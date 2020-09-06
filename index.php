@@ -25,6 +25,7 @@
                 <a href="login.php" class="btn"> login </a> &emsp;
                 <a href="register.php" class="btn"> register </a>
                 <h2> Good &nbsp;Luck. </h2>
+                
             </div>
         </center>
     </body>
